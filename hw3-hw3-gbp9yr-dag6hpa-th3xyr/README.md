@@ -4,7 +4,6 @@
 
 * Billy Huang - th3xyr
 * Hao Liu - gbp9yr
-* Author 3 - Computing ID 3
 
 ## Description
 Refactoring Code from Homework 1C - Apportionment (Hamilton & Huntington)

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="edu.virginia.cs.hw3.BenefitTester" tests="3" skipped="0" failures="0" errors="0" timestamp="2022-10-15T19:00:02" hostname="战术主动制导装" time="1.157">
+  <properties/>
+  <testcase name="Benefit Related Format Test with shortened statelist" classname="edu.virginia.cs.hw3.BenefitTester" time="1.098"/>
+  <testcase name="Benefit Related Format Test" classname="edu.virginia.cs.hw3.BenefitTester" time="0.001"/>
+  <testcase name="Alphabetical Format Test with shortened statelist" classname="edu.virginia.cs.hw3.BenefitTester" time="0.055"/>
+  <system-out><![CDATA[Connecticut - 5 - +0.4439705774324416
+New Jersey - 11 - +0.28575566850130407
+Massachusetts - 8 - -0.3389236396497797
+Rhode Island - 1 - -0.39082755475843634
+Washington - 25 - 0.0
+Connecticut - 5
+Massachusetts - 8
+New Jersey - 11
+Rhode Island - 1
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

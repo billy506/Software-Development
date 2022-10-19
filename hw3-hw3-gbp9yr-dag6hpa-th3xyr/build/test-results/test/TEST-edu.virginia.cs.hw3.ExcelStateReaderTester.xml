@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="edu.virginia.cs.hw3.ExcelStateReaderTester" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-10-15T19:00:03" hostname="战术主动制导装" time="0.058">
+  <properties/>
+  <testcase name="testReadExcel()" classname="edu.virginia.cs.hw3.ExcelStateReaderTester" time="0.058"/>
+  <system-out><![CDATA[Row 7 contains an invalid state name.
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

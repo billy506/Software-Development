@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="edu.virginia.cs.hw3.JeffersonAlgorithmTester" tests="3" skipped="0" failures="0" errors="0" timestamp="2022-10-15T19:00:03" hostname="战术主动制导装" time="0.083">
+  <properties/>
+  <testcase name="Jefferson tested with only one state" classname="edu.virginia.cs.hw3.JeffersonAlgorithmTester" time="0.001"/>
+  <testcase name="Jefferson tested with sample state list" classname="edu.virginia.cs.hw3.JeffersonAlgorithmTester" time="0.035"/>
+  <testcase name="Jefferson tested with shortened statelist" classname="edu.virginia.cs.hw3.JeffersonAlgorithmTester" time="0.045"/>
+  <system-out><![CDATA[Row 7 contains an invalid state name.
+11
+1
+9
+4
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

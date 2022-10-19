@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="edu.virginia.cs.hw2.GameTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2022-09-30T00:34:15" hostname="战术主动制导装" time="0.276">
+  <properties/>
+  <testcase name="testConstructorWithIllegalAnswer()" classname="edu.virginia.cs.hw2.GameTest" time="0.276"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
